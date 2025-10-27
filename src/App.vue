@@ -1,5 +1,5 @@
-<template>
-  <div id="app" style="min-height: 100vh; display: flex; flex-direction: column; background: #f9fafb;">
+ <template>
+  <div style="min-height: 100vh; display: flex; flex-direction: column; background: #f9fafb;">
     <Toast />
     <Navbar />
     <main style="flex: 1;">
@@ -16,11 +16,7 @@ import Toast from './components/Toast.vue'
 
 export default {
   name: 'App',
-  components: {
-    Navbar,
-    Footer,
-    Toast
-  }
+  components: { Navbar, Footer, Toast }
 }
 </script>
 
@@ -31,13 +27,8 @@ export default {
   box-sizing: border-box;
 }
 
-body, html, #app {
+body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   line-height: 1.6;
-  height: 100%;
-}
-
-main {
-  flex: 1;
 }
 </style>
