@@ -116,7 +116,7 @@ export default {
       buttonStyle: {
         width: '100%',
         padding: '14px',
-        background: '#006400',
+        background: '#1e40af',
         color: 'white',
         border: 'none',
         borderRadius: '6px',
@@ -134,7 +134,7 @@ export default {
         textAlign: 'center'
       },
       linkStyle: {
-        color: '#006400',
+        color: '#1e40af',
         fontWeight: '600'
       }
     }

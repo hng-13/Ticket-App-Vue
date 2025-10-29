@@ -52,7 +52,7 @@ export default {
       session,
       handleLogout,
       headerStyle: {
-        background: '#006400',
+        background: '#1e40af',
         color: 'white',
         padding: '16px 0',
         boxShadow: '0 2px 8px rgba(0,0,0,0.1)'

@@ -52,7 +52,7 @@ export default {
       features,
       heroStyle: {
         position: 'relative',
-        background: 'linear-gradient(135deg, #006400 30%, #ff6347 100%)',
+        background: 'linear-gradient(135deg, #1e40af 30%, #ff6347 100%)',
         color: 'white',
         padding: '100px 20px 200px',
         overflow: 'hidden'
@@ -107,7 +107,7 @@ export default {
       },
       btnLoginStyle: {
         background: 'white',
-        color: '#006400',
+        color: '#1e40af',
         padding: '14px 32px',
         borderRadius: '30px',
         textDecoration: 'none',

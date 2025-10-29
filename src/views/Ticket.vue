@@ -211,7 +211,7 @@ export default {
     // Get status badge style based on status
     const getStatusBadgeStyle = (status) => {
       const colors = {
-        open: '#10b981',
+        open: '#3b82f6',
         in_progress: '#f59e0b',
         closed: '#6b7280'
       }
@@ -309,7 +309,7 @@ export default {
 
     const btnPrimaryStyle = {
       padding: '12px 24px',
-      background: '#006400',
+      background: '#1e40af',
       color: 'white',
       border: 'none',
       borderRadius: '6px',

@@ -16,7 +16,7 @@ import { toastState } from '../services/toastService'
 export default {
   setup() {
     const getToastStyle = (type) => ({
-      background: type === 'error' ? '#ef4444' : '#10b981',
+      background: type === 'error' ? '#ef4444' : '#3b82f6',
       color: 'white',
       padding: '12px 20px',
       borderRadius: '8px',

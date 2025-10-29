@@ -93,7 +93,7 @@ export default {
         boxShadow: '0 4px 12px rgba(0,0,0,0.1)'
       },
       linkStyle: {
-        color: '#006400',
+        color: '#1e40af',
         fontWeight: '600'
       }
     }
