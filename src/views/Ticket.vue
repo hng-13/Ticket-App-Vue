@@ -111,7 +111,7 @@ import {
   createTicket,
   updateTicket,
   deleteTicket
-} from '../services/ticketStore'
+} from '../services/ticketstore'
 import { showToast } from '../services/toastService'
 
 export default {
