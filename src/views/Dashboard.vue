@@ -31,7 +31,7 @@
 
 <script>
 import { ref, onMounted, computed } from 'vue'
-import { loadTickets } from '../services/ticketStore.js'
+import { loadTickets } from '../services/ticketstore.js'
 
 
 export default {
